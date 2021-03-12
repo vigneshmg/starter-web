@@ -16,6 +16,8 @@ This is some more Deployment dummy text added.
 
 ## How to contribute
 
+Just adding in how to contribute
+
 ## Copyright
 
 2014 Git.Training.
