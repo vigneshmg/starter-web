@@ -15,3 +15,7 @@ This is some more purpose dummy text added.
 This is some more Deployment dummy text added.
 
 ## How to contribute
+
+## Copyright
+
+2014 Git.Training.
