@@ -4,7 +4,7 @@ This is a simple website project for
 showing how to use Git and Github together.
 
 ## Introduction
-This is some dummy text added. Dummy text
+This is some dummy text added. Dummy text. Dummy text again.
 
 ## Purpose
 
