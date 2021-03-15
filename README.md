@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for
-showing how to use Git and Github together.
+showing how to use Git and Github together. Emergency fix
 
 ## Introduction
 This is some dummy text added. Dummy text. Dummy text again.
